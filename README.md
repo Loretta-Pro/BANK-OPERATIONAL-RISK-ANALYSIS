@@ -1,4 +1,4 @@
-#Transaction Efficiency, Risk & Network Performance Overview – Lead Bank
+# Transaction Efficiency, Risk & Network Performance Overview – Lead Bank
 
 **Author:** Loretta Chimezie   
 **Date:** 2025-11-28
